@@ -1,6 +1,6 @@
 # Atelier : Contrat de neutralisation financière
 
-![[dumdum-profile.png|500px]]
+![Profile image](dumdum.png)
 
 ## Contexte
 
