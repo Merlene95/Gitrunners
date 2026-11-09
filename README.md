@@ -1,5 +1,7 @@
 # Atelier : Contrat de neutralisation financière
 
+![[dumdum-profile.png|500px]]
+
 ## Contexte
 
 On vous engage comme netrunners. Le mandat : neutraliser les actifs liquides de trois dirigeants corporatistes. Leur fortune est stockée sur des comptes banques accessibles via un dépôt GitHub compromis.
