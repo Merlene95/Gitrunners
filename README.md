@@ -31,7 +31,5 @@ Votre cible : mettre leur solde **Eurodollars** à **0** dans les trois fichiers
 ```powershell
 git clone [URL_DU_REPO]
 git checkout -b runners-[votre-nom]
-git add .
-git commit -m "Contrat exécuté - neutralisation financière"
-git push -u origin runners-[votre-nom]
+et d'autres commandes de votre invention...
 ```
